@@ -1,6 +1,8 @@
 # MLGame-Machine-Learning
 訓練 AI 遊玩 MLGame 框架下的遊戲
 
+注意：本專案只包含自訂腳本，遊戲本體請前往此處下載：https://github.com/PAIA-Playful-AI-Arena/MLGame
+
 ## Arkanoid - 打磚塊遊戲
 
 ### 執行遊戲
